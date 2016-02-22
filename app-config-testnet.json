@@ -1,0 +1,16 @@
+{
+  "networkName": "testnet",
+  "burnAddress": "mvBurnNameXXXXXXXXXXXXXXXXXXd6F2jp",
+  "opReturnPrefix": "cdb6",
+  "checkpoint": {
+    "height": 720200,
+    "header": {
+      "version": 4,
+      "prevHash": "00000000000021bfa7c93f473baad93e60287ab0509a5ddec069f303ebe98650",
+      "merkleRoot": "bbf96eec309ae21d4d8660fbe3a14d4e56dab88c3f7f9ee2b7d00cc94100a455",
+      "time": 1456210488,
+      "bits": 440401856,
+      "nonce": 1174296348
+    }
+  }
+}

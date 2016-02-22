@@ -1,0 +1,29 @@
+{
+  "name": "burn-name",
+  "version": "0.1.0",
+  "description": "Simple decentralized username registration by burning bitcoins",
+  "main": "index.js",
+  "bin" : {
+    "burn-name" : "bin/burn-name.js" 
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "keywords": [
+    "bitcoin",
+    "webcoin",
+    "spv",
+    "p2p"
+  ],
+  "author": "Paul Kernfeld",
+  "license": "ISC",
+  "dependencies": {
+    "burn-stream": "^0.2.0",
+    "debug": "^2.2.0",
+    "webcoin": "^1.0.2"
+  },
+  "devDependencies": {
+    "standard": "^6.0.7",
+    "tape": "^4.4.0"
+  }
+}
